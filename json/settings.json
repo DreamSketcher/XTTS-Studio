@@ -1,12 +1,12 @@
 {
-  "language": "auto",
+  "language": "ru",
   "quality": "Высокое качество",
   "ref_path": "C:\\XTTS Studio\\library\\LJ025-0076\\normalized.wav",
-  "use_gpt": true,
+  "use_gpt": false,
   "word_replacer_enabled": true,
   "lang_split_enabled": true,
   "ui_language": "ru",
-  "text_font_size": 16,
+  "text_font_size": 14,
   "ai_conductor_enabled": false,
   "ai_conductor_context": "",
   "quality_params": {
@@ -25,8 +25,8 @@
       "use_gpt": false,
       "ai_conductor_enabled": false,
       "rvc_enable": true,
-      "rvc_model": "egirl",
-      "rvc_index_rate": 1.0,
+      "rvc_model": "NatanaelCano",
+      "rvc_index_rate": 0.75,
       "rvc_pitch_shift": 0,
       "rvc_f0_method": "rmvpe"
     },
@@ -91,7 +91,7 @@
       "rvc_f0_method": "harvest"
     }
   },
-  "ai_conductor_open_count": 17,
+  "ai_conductor_open_count": 18,
   "ai_conductor_warning_dismissed": true,
   "ui_theme": "light",
   "left_panel_visible": true,
@@ -100,6 +100,6 @@
   "open_updates_on_startup": false,
   "install_variant_on_startup": null,
   "auto_check_updates": true,
-  "quality_settings_last_tab": "xtts",
+  "quality_settings_last_tab": "rvc",
   "ui_motion_profile": "ultra"
 }
