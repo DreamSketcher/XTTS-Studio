@@ -1,4 +1,4 @@
 {
-  "ui_theme": "dark",
-  "left_panel_visible": true
+  "ui_theme": "light",
+  "left_panel_visible": false
 }
